@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".BluetoothFragment"
+    android:orientation="vertical">
+
+   <com.google.android.material.switchmaterial.SwitchMaterial
+       android:layout_width = "match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="250dp"
+       android:paddingHorizontal="120dp"
+       android:textSize="20sp"
+       android:textStyle="bold"
+       android:elevation="10dp"
+       android:text="Sync"
+
+       android:theme="@style/ThemeOverlay.App.Switch"/>
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Store Offline"
+        android:paddingHorizontal="120dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:checked="true"
+        android:elevation="10dp"
+        android:theme="@style/ThemeOverlay.App.Switch"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="2dp"
+        android:text="Mapped Device : DEV_001"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/tableText"/>
+
+</LinearLayout>

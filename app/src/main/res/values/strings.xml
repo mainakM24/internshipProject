@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="case_study">Case Study</string>
+    <string name="Lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo quam hendrerit lorem accumsan, at volutpat leo tristique. Vivamus dignissim id nibh ut lacinia. Etiam eget augue ac tortor hendrerit eleifend a rhoncus dolor. Nulla accumsan imperdiet felis. Vivamus vel ex rutrum, dapibus elit sed, finibus diam. Fusce ut turpis sit amet urna tincidunt finibus. Curabitur tempor justo volutpat, cursus nibh sit amet, tempus orci. Proin egestas at elit pretium cursus. Etiam pretium accumsan malesuada. Vivamus pharetra quam elit, in pharetra ligula euismod ut. Aenean facilisis purus non diam interdum scelerisque vitae quis est. Pellentesque mattis cursus fringilla. Vivamus sit amet congue mi, a cursus ex. Nam sit amet suscipit elit. Proin tempus eros eu libero pellentesque consectetur.
+
+Sed at gravida ipsum. Pellentesque vehicula, ex ac auctor auctor, sapien urna blandit nisi, vel fermentum nisl purus id augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc dignissim purus id orci ullamcorper bibendum. Phasellus eleifend dolor sit amet convallis dignissim. Quisque ipsum dolor, sodales eu ipsum nec, facilisis tristique augue. Fusce suscipit erat purus, id venenatis mi efficitur sed. Nunc sodales quis est pretium elementum. Donec lorem ligula, commodo eget justo semper, condimentum molestie ipsum. Pellentesque tincidunt in urna in auctor.
+
+Sed ultrices varius leo id commodo. Sed mattis ullamcorper tellus. Ut eu ligula tincidunt, tristique turpis vel, aliquam felis. Praesent sodales, erat id interdum finibus, nisi libero elementum libero, at egestas metus justo ac velit. Nullam dapibus augue neque, at mollis metus interdum vitae. Nam fringilla, neque at facilisis vulputate, nisl elit molestie ligula, quis posuere ligula velit sit amet quam. Etiam rutrum ipsum magna. Aenean vestibulum lectus nec imperdiet convallis. Etiam in lacus id lacus dictum placerat. Quisque auctor leo ac consequat sollicitudin.
+.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
